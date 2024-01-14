@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/net_box_tv/static/css/main.e39cf770.css",
-    "main.js": "/net_box_tv/static/js/main.7d2e0fc1.js",
-    "static/media/ApolinaireADANDE.png": "/net_box_tv/static/media/ApolinaireADANDE.9bc4962e16933d84eb42.png",
-    "static/media/divisima.png": "/net_box_tv/static/media/divisima.f8dbd59bf6b6eb9d4435.png",
-    "static/media/NetBox.png": "/net_box_tv/static/media/NetBox.bd125bc30769031615da.png",
-    "static/media/dataSchool.png": "/net_box_tv/static/media/dataSchool.4cf97db38f938183bfcf.png",
-    "static/media/disciples.png": "/net_box_tv/static/media/disciples.eaad9f5528488a51c2d7.png",
-    "static/media/atounAfrica.png": "/net_box_tv/static/media/atounAfrica.a414ebcbf89173a4ee70.png",
-    "static/media/imspExplore.png": "/net_box_tv/static/media/imspExplore.69b94db2cbf899985608.png",
-    "static/media/developer-pic-1.png": "/net_box_tv/static/media/developer-pic-1.b91a9807ceb5daf81ab4.png",
-    "static/media/twitterClone.png": "/net_box_tv/static/media/twitterClone.92e310a57eedae76ebe0.png",
-    "static/media/Family Values - In Company.png": "/net_box_tv/static/media/Family Values - In Company.4c082c703ff167a9feed.png",
-    "static/media/africaLight.png": "/net_box_tv/static/media/africaLight.a463a44596144fd985fe.png",
-    "index.html": "/net_box_tv/index.html",
-    "main.e39cf770.css.map": "/net_box_tv/static/css/main.e39cf770.css.map",
-    "main.7d2e0fc1.js.map": "/net_box_tv/static/js/main.7d2e0fc1.js.map"
+    "main.css": "/Portefolio/static/css/main.e39cf770.css",
+    "main.js": "/Portefolio/static/js/main.483bb978.js",
+    "static/media/ApolinaireADANDE.png": "/Portefolio/static/media/ApolinaireADANDE.9bc4962e16933d84eb42.png",
+    "static/media/divisima.png": "/Portefolio/static/media/divisima.f8dbd59bf6b6eb9d4435.png",
+    "static/media/NetBox.png": "/Portefolio/static/media/NetBox.bd125bc30769031615da.png",
+    "static/media/dataSchool.png": "/Portefolio/static/media/dataSchool.4cf97db38f938183bfcf.png",
+    "static/media/disciples.png": "/Portefolio/static/media/disciples.eaad9f5528488a51c2d7.png",
+    "static/media/atounAfrica.png": "/Portefolio/static/media/atounAfrica.a414ebcbf89173a4ee70.png",
+    "static/media/imspExplore.png": "/Portefolio/static/media/imspExplore.69b94db2cbf899985608.png",
+    "static/media/developer-pic-1.png": "/Portefolio/static/media/developer-pic-1.b91a9807ceb5daf81ab4.png",
+    "static/media/twitterClone.png": "/Portefolio/static/media/twitterClone.92e310a57eedae76ebe0.png",
+    "static/media/Family Values - In Company.png": "/Portefolio/static/media/Family Values - In Company.4c082c703ff167a9feed.png",
+    "static/media/africaLight.png": "/Portefolio/static/media/africaLight.a463a44596144fd985fe.png",
+    "index.html": "/Portefolio/index.html",
+    "main.e39cf770.css.map": "/Portefolio/static/css/main.e39cf770.css.map",
+    "main.483bb978.js.map": "/Portefolio/static/js/main.483bb978.js.map"
   },
   "entrypoints": [
     "static/css/main.e39cf770.css",
-    "static/js/main.7d2e0fc1.js"
+    "static/js/main.483bb978.js"
   ]
 }
